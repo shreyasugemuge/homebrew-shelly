@@ -1,8 +1,8 @@
 class Shelly < Formula
   desc "Modular zsh configuration with dev workspace and system monitoring"
   homepage "https://github.com/shreyasugemuge/shelly"
-  url "https://github.com/shreyasugemuge/shelly/archive/refs/tags/v4.8.1.tar.gz"
-  sha256 "PLACEHOLDER"
+  url "https://github.com/shreyasugemuge/shelly/archive/refs/tags/v4.10.0.tar.gz"
+  sha256 "5c66aee2766ad7261b9a0f0e76cd00ce27c7326379f96ec93375e0bd037cd28c"
   license "MIT"
 
   def install
